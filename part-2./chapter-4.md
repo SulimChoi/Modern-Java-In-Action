@@ -40,3 +40,14 @@
 > * 선언형: 더 간결하고 가독성이 좋아짐.
 > * 조립할 수 있음: 유연성이 좋아짐
 > * 병렬화: 성능이 좋아
+
+
+
+### 앞으로 사용할 예제 코드
+
+{% embed url="https://gist.github.com/SulimChoi/fb43db86b0ae9e7f0a8db1491e21806b" %}
+Menu 예제
+{% endembed %}
+
+## 2. 스트림 시작하기
+
