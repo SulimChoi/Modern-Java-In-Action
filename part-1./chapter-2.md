@@ -14,11 +14,12 @@
 
 ### 첫 번째 시도 : 녹색 사과 필터링
 
-*   사과 색을 정의하는 `Color num`이 존재한다고 가정
+* 사과 색을 정의하는 `Color num`이 존재한다고 가정
 
-    ```
-    enum Color { RED, GREEN }
-    ```
+```
+enum Color { RED, GREEN }
+```
+
 *   첫 번째 시도 결과 코드
 
     ```
