@@ -17,7 +17,7 @@
 
 - 저칼로리의 요리명을 반환하고, 칼로리를 기준으로 요리를 정렬하는 자바 7 코드
 
-	{% embed url="https://gist.github.com/SulimChoi/2246e6396450eb56369e619b44340cbf.js" %}{%endembed%}
+	{% embed url="https://gist.github.com/SulimChoi/2246e6396450eb56369e619b44340cbf" %}{%endembed%}
 
 	- 가비지 변수 `lowCaloricDishes` 사용. `lowCaloricDishes`는 컨테이너 역할만 하는 중간 변수
 
@@ -25,7 +25,7 @@
 
 - 자바 8에서는 이런 세부 구현을 라이브러리 내에서 모두 처리
 
-    {% embed url="https://gist.github.com/SulimChoi/0a9c3b4ba8f0410b65ec5b221ff5f20b.js" %} {%endembed%}
+    {% embed url="https://gist.github.com/SulimChoi/0a9c3b4ba8f0410b65ec5b221ff5f20b" %} {%endembed%}
     
 	- `stream()`을 `parallelStream()`으로 바꾸면 멀티코어 아키텍처에서 병렬로 실행 가능
 
@@ -54,7 +54,7 @@
 
 ### 앞으로 사용할 메뉴(menu) 예제
 
-{% embed url="https://gist.github.com/SulimChoi/fb43db86b0ae9e7f0a8db1491e21806b.js" %} {%endembed%}
+{% embed url="https://gist.github.com/SulimChoi/fb43db86b0ae9e7f0a8db1491e21806b" %} {%endembed%}
 
 
 
@@ -86,7 +86,7 @@
 
 ### 예제
 
-{% embed url="https://gist.github.com/SulimChoi/e1905b7eed90e22014c5faf5821ad6e0.js" %} {%endembed%}
+{% embed url="https://gist.github.com/SulimChoi/e1905b7eed90e22014c5faf5821ad6e0" %} {%endembed%}
 
 1. **요리 리스트를 포함하는 menu에 stream 메서드를 호출해 스트림을 얻음**
 	- 데이터 소스: 요리 리스트(메뉴)
@@ -179,7 +179,7 @@
 
 - `java.util.stream.Stream` 인터페이스는 많은 연산을 정의함
 
-{% embed url="https://gist.github.com/SulimChoi/8d0f5c2f14c49b6d8ca0a5b29e8592f1.js" %} {%endembed%}
+{% embed url="https://gist.github.com/SulimChoi/8d0f5c2f14c49b6d8ca0a5b29e8592f1" %} {%endembed%}
 
 - 예제에서 연산을 두 그룹으로 구분할 수 있음
 	- filter, map, limit은 서로 연결되어 파이프라인을 형성함
